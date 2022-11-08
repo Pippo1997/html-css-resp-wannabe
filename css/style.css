@@ -169,3 +169,9 @@ img {
 
 /* bonus */
 
+@media screen and (min-width:768px) and (max-width:1140px) {
+
+    section, header{
+        width: 1140px;
+    }
+}
